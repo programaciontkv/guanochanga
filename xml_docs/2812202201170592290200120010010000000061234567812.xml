@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+                    <autorizacion>
+		              <estado>AUTORIZADO</estado>
+		              <numeroAutorizacion>2812202201170592290200120010010000000061234567812</numeroAutorizacion>
+		              <fechaAutorizacion>2022-12-29T08:17:03-05:00</fechaAutorizacion>
+		              <ambiente>PRODUCCIÓN</ambiente>
+		              <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>GUANOCHANGA QUILLUPANGUI SEGUNDO FABIAN</razonSocial>
+<nombreComercial>FG TALLERES</nombreComercial>
+<ruc>1705922902001</ruc>
+<claveAcceso>2812202201170592290200120010010000000061234567812</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000000006</secuencial>
+<dirMatriz>EL INCA AV DE LAS PALMERAS N47-438 Y BERNARDO DELGADO</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>28/12/2022</fechaEmision>
+<dirEstablecimiento>EL INCA AV DE LAS PALMERAS N47-438 Y BERNARDO DELGADO</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>STEPHAN CARRERA NARVAEZ</razonSocialComprador>
+<identificacionComprador>1723854418</identificacionComprador>
+<totalSinImpuestos>120</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>120</baseImponible>
+<valor>14.4</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>134.4</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>134.4</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>FAM.FAM.007</codigoPrincipal>
+<descripcion>GALON Y UN CUARTO DE ACEITE 10W30</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>35</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>35</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>35</baseImponible>
+<valor>4.2</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.FAM.016</codigoPrincipal>
+<descripcion>CAMBIO SENSORES ARBOL LEVAS</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>10</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>10</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>10</baseImponible>
+<valor>1.2</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.FAM.017</codigoPrincipal>
+<descripcion>CAMBIO ACEITE CAJA AUTOMATICA Y FILTRO CAPTIVA</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>22</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>22</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>22</baseImponible>
+<valor>2.64</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.FAM.019</codigoPrincipal>
+<descripcion>LIMPIEZA INYECTORES CAPTIVA</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>25</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>25</baseImponible>
+<valor>3</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.FAM.020</codigoPrincipal>
+<descripcion>CAMBIO BUJIAS</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>10</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>10</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>10</baseImponible>
+<valor>1.2</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.FAM.021</codigoPrincipal>
+<descripcion>FILTRO DE ACEITE CO6407</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>10</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>10</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>10</baseImponible>
+<valor>1.2</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.FAM.018</codigoPrincipal>
+<descripcion>CAMBIO CORREA ACCESORIOS</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>8</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>8</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>8</baseImponible>
+<valor>0.96</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">BATAN</campoAdicional>
+<campoAdicional nombre="Telefono">099424489</campoAdicional>
+<campoAdicional nombre="Email">stephan_carrera@hotmail.com</campoAdicional>
+<campoAdicional nombre="Observaciones"> CONTRIBUYENTE REGIMEN RIMPE               CANCELADO </campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature185641">
+<ds:SignedInfo Id="Signature-SignedInfo822726">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID217046" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature185641-SignedProperties908463">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vRlBhf/hkMCw6uUBzQXY8eAz1qs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1699897">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RVccZ8J+5fpxbETXKFHKss0ZhDE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-779680" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>wyb6PgeYQ9HuWuMIkiLy+Av9AvM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue31876">
+URybT4mwPxYSAF0NX9aQ1dePv70olrWQ73S7snuR4Vb+Z4AbjtLki2er0fQttZP3AEos2TL5dgda
+fKss3mn9fM/ps7dOQWdEUg50c1Vqdp2hrbOLI75mdgWcdHCad1tCLUOI1Cj+xR0EhC2592jwC3BE
+iGIKB6sxPXo1jxCIahdyHMcCFvWx+xtTBZm8zGuoaTHnQKcT78hBuDuTw24bEA8I+evq6aVjppho
+PaFF8vgeYvVlUXDy3NZtv/3lpTtPwpXf15+FyEJOhk8iya9X2Va5EL3UJY5p64qem8wOwnDvvENt
+tzGNYA2h2pkmNJpVpWB0q5++UpxgLk7eUXvysw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1699897">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL8DCCCdigAwIBAgIEH3JOnDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEyMDExNjA1MTNaFw0yMzEyMDExNjA1MTNaMIGnMTAw
+LgYDVQQDDCdTRUdVTkRPIEZBQklBTiBHVUFOT0NIQU5HQSBRVUlMTFVQQU5HVUkxFTATBgNVBAUT
+DDAxMTIyMjExMTQ1MjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCyDaAIosk1QRLsVQqCiiVlSlLq9y3wYHZE+eYvdti+
+m65/CaJVx9r7C31BCppoIW0oo3CWv2QoaMOH3iIV0HViRWk3qevXwFkiOPGkpUgKrTTtL47SLjFu
+p2mq1P4dBbkul4hMVUSNVlaH00KZZNvX7+kvBuK3VkQI/f+bEZI+V9t6a/frUF4v1yqT9r6iSfoy
+zUGPlFpADcR9hy3ZE8ajevjRVMnX4BBQODAriY/OOzxhW6FFBLBK8nFSmVP2FmW0hyvjZokDgYDR
+hZUxX76ikKdH36BRY+RwSA/sa5FlcvxZF18807XB+jxpxYiBY/eJFE7v3TvALLyM2NfLc1pTAgMB
+AAGjggcuMIIHKjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAhBgNVHREEGjAYgRZmZ3RhbGxlcmVzQG91dGxvb2suY29tMIIBBgYD
+VR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZy
+AgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNv
+bnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRl
+IENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+G
+PWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceg
+gcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFE
+IERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2Vy
+dGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3Bl
+cmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRp
+c3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBT
+RUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixP
+PVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFENB1Yk6UE/KtGqBL7Ed7JB6/ETF
+MCsGA1UdEAQkMCKADzIwMjIxMjAxMTYwNTEzWoEPMjAyMzEyMDExNjA1MTNaMAsGA1UdDwQEAwIF
+4DAaBgorBgEEAYKmcgMBBAwMCjE3MDU5MjI5MDIwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgor
+BgEEAYKmcgMiBAMMAS4wPAYKKwYBBAGCpnIDBwQuDCxBViBERSBMQVMgUEFMTUVSQVMgTjQ3NDM4
+IFkgQkVSTkFSRE8gREVMR0FETzAeBgorBgEEAYKmcgMCBBAMDlNFR1VORE8gRkFCSUFOMB8GCisG
+AQQBgqZyAyAEEQwPMDAyMDAxMDAwNDkyOTc0MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKm
+cgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGwYKKwYBBAGCpnIDAwQNDAtHVUFO
+T0NIQU5HQTARBgorBgEEAYKmcgMeBAMMAS4wHQYKKwYBBAGCpnIDCwQPDA0xNzA1OTIyOTAyMDAx
+MBEGCisGAQQBgqZyAx0EAwwBLjAcBgorBgEEAYKmcgMEBA4MDFFVSUxMVVBBTkdVSTAaBgorBgEE
+AYKmcgMIBAwMCjA5OTg5MjQzNzEwDQYJKoZIhvcNAQELBQADggIBAIaPEPQ9adhT5AuBWirl05+v
+5zl950IqiNd5VIH8i8fCkF9Xqz0Jy3gOARxTOw3n30sfQtxgouiY7FbWH9K+Tjp+8p/Aw8Jly4L+
+hiTbVBJkRQY5pCqDMqupMfqBUw6IBhBensS8lEnHAvDyKt581yYOjLZZbHLEkOy+CegXUBbBe1//
+hzsvwjqk2Lv6yHkmxN9V5wfgiJxBokdw8Aj59USx29IYUpwkXnhPeY/FqTRKlayMoLCw3r2F9Etg
+tDk0NLzGk2FPgIAlfc4GcHmiyisRKer5+RdZPcow4CXr8rveeOD16bYbjpkNMNKdcGWjUj1br+kg
+dJopfvVaThJhoehs9NmCLYeBCClrJZJpzvv3Xa6EjeTmuoS1iXRIOMTQ9wGLRLxkiaFgCF5+dL6f
+Lq0//EhdOvST7cEUA29dJJpP9MXmEujoQL4GmGgaeDJP4jIwZinHcWh8GV+LLVLWRa4oOXEoXDdg
+1376BK4vE28YJu7YzdBQRZ54mjKe6SGCXORmMrv8ZrojRM521v3brB4vMM4mCXQIv6jqBCcF0s2/
+WOEKIdgXipWWePkyj4TDAvnkAMcNjeyt+sGBd19NIxo1j2OEZS2V94aUwMw5TsJgTWqe9ZLB3A/O
+JQYG0YMqxNSyJMDwBCK66WrcI7WtB2z6HO4WDN6A7EtrtjZd6Pdp
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sg2gCKLJNUES7FUKgoolZUpS6vct8GB2RPnmL3bYvpuufwmiVcfa+wt9QQqaaCFtKKNwlr9kKGjD
+h94iFdB1YkVpN6nr18BZIjjxpKVICq007S+O0i4xbqdpqtT+HQW5LpeITFVEjVZWh9NCmWTb1+/p
+Lwbit1ZECP3/mxGSPlfbemv361BeL9cqk/a+okn6Ms1Bj5RaQA3EfYct2RPGo3r40VTJ1+AQUDgw
+K4mPzjs8YVuhRQSwSvJxUplT9hZltIcr42aJA4GA0YWVMV++opCnR9+gUWPkcEgP7GuRZXL8WRdf
+PNO1wfo8acWIgWP3iRRO7907wCy8jNjXy3NaUw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature185641-Object577234"><etsi:QualifyingProperties Target="#Signature185641"><etsi:SignedProperties Id="Signature185641-SignedProperties908463"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-12-29T08:17:03-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>jW8qVYPHvr+XGxzGmURABa6etHI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>527584924</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-779680"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+                    	<mensajes/>
+                    </autorizacion>
